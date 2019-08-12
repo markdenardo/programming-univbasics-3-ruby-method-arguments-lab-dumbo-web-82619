@@ -17,7 +17,7 @@ end
 
 introduction (Bob)
 introduction_with_language (Bob, Ruby)
-introduction_with_language(name,language)
+introduction_with_language(Bob,language)
 
 
 
